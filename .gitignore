@@ -1,3 +1,6 @@
 
 .idea/
 .pytest_cache/
+
+# Leaving this here until I can confirm it's not proprietery
+solar.csv
